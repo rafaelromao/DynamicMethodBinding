@@ -1,0 +1,7 @@
+C:\Rafael\DynamicMethodBinding\DynamicMethodBinding\bin\Debug\DynamicMethodBinding.dll
+C:\Rafael\DynamicMethodBinding\DynamicMethodBinding\bin\Debug\DynamicMethodBinding.pdb
+C:\Rafael\DynamicMethodBinding\DynamicMethodBinding\bin\Debug\nunit.framework.dll
+C:\Rafael\DynamicMethodBinding\DynamicMethodBinding\bin\Debug\nunit.framework.xml
+C:\Rafael\DynamicMethodBinding\DynamicMethodBinding\obj\Debug\ResolveAssemblyReference.cache
+C:\Rafael\DynamicMethodBinding\DynamicMethodBinding\obj\Debug\DynamicMethodBinding.dll
+C:\Rafael\DynamicMethodBinding\DynamicMethodBinding\obj\Debug\DynamicMethodBinding.pdb
